@@ -13,23 +13,21 @@
 
 ###
 
-<p align="left">Hi there! 👋 I’m Harith Bin Bennet Aprianto, a passionate Software Engineering student at Universiti Teknologi Malaysia, on a journey to become a full-stack developer. My current focus is on web development, and I’m learning Next.js while looking forward to exploring Laravel soon.</p>
+<p align="left">Hi there! 👋 I’m Harith, a Software Engineering student at Universiti Teknologi Malaysia, with a passion for becoming a full-stack developer. Currently, I'm focused on web development, learning Next.js, and eager to explore Laravel soon.</p>
 
-###
+### Interests
+- **Web Development**: Exploring modern frameworks and building dynamic web applications.
+- **New Technologies**: Enthusiastic about experimenting with the latest tech trends.
+- **Content Creation**: Creating engaging content that blends tech skills with creativity.
+- **Photography**: Capturing moments through the lens is a favorite hobby of mine!
 
-<h4 align="left">Interests</h4>
+### Learning
+- **Next.js**: Developing server-rendered React applications.
+- **Laravel**: Looking forward to diving into backend development with Laravel.
 
-###
+I’m excited to collaborate on projects and learn from the developer community. Let’s connect and create something amazing together! 😊
 
-<p align="left">- Web Development: Diving deep into modern frameworks and building dynamic web applications.<br>- New Technologies: Always eager to explore and experiment with the latest tech trends.<br>- Content Creation: I enjoy creating engaging content, blending my tech skills with creativity.<br>- Photography: Capturing moments through the lens is more than a hobby; it’s a passion!</p>
-
-###
-
-<h4 align="left">Learning</h4>
-
-###
-
-<p align="left">- Next.js: Building server-rendered React applications with Next.js.<br>- Future Plans: Excited to delve into Laravel for backend development.<br><br>I love collaborating on projects and learning from the developer community. Let’s connect and create something amazing together! 😊<br><br>Feel free to reach out or check out my repositories! 📂✨</p>
+Feel free to reach out or check out my repositories! 📂✨
 
 ###
 

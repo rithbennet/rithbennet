@@ -76,10 +76,3 @@ Feel free to reach out or check out my repositories! 📂✨
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rithbennet/rithbennet/output/snake.svg" alt="Snake animation" />
-
-###

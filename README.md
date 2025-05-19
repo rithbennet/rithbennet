@@ -22,7 +22,8 @@
 
 ### Learning
 - **Next.js**: Developing server-rendered React applications.
-- **Laravel**: Looking forward to diving into backend development with Laravel.
+- **Go**: Diving into backend services.
+- **Python**: Solidifying python.
 
 I’m excited to collaborate on projects and learn from the developer community. Let’s connect and create something amazing together! 😊
 
